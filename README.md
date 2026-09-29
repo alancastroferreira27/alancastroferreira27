@@ -2,8 +2,6 @@
 
 Web Developer in Training | Web Application Development (DAW) Student
 
-[LinkedIn](https://linkedin.com/in/tu-usuario) • [Email](mailto:alancastroferreira27@gmail.com)
-
 ---
 
 ## About Me
