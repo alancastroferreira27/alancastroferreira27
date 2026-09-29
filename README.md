@@ -23,9 +23,3 @@ Web Application Development (DAW) student focusing on frontend and backend devel
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/alancastroferreira27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alancastroferreira27&theme=dracula" alt="Profile Details" width="85%" />
-  </a>
-</p>
